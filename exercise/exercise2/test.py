@@ -17,6 +17,3 @@ if __name__ == "__main__":
     ret = dict(FilterFile(listPaths, extSearch))
     for i in ret:
         print('{0} | {1}'.format(i, ret[i]))
-    
-    print("Long dep trai")
-    print("Long dep trai 2") 
