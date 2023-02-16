@@ -1,0 +1,4 @@
+House Made Baked Pie:4.99:20
+Rice Pudding:4.99:20
+Ice Cream Per Scoop:3.99:50
+Soda:3.99:40

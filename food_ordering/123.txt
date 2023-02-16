@@ -1,0 +1,143 @@
+============================================ Mon Jan 30 09:45:12 2023
+[*] Name                          $ Price   Servings          Total
+1. Ice Cream Per Scoop            $3.99            4          $15.96 
+2. Rice Pudding                   $4.99            5          $24.95 
+3. House Made Baked Pie           $4.99            4          $19.96 
+4. House Made Baked Pie           $4.99            5          $24.95 
+5. Chicken Tender                 $24.99           5          $124.95
+----------------------------------------------------------------------
+0. Total                                                      $210.77                         
+0. Merchandise Subtotal                                       $210.77                         
+0. Voucher Discount                                         - $63.231                         
+0. Total Payment                                              $147.539                        
+
+============================================ Mon Jan 30 13:37:33 2023
+[*] Name                          $ Price   Servings          Total
+1. Ham and Pickle Roll-Ups        $9              12          $108   
+2. Beef Sausage                   $10.99          37          $406.63
+3. Rose chicken Sandwich          $8.99            1          $8.99  
+4. Ice Cream Per Scoop            $3.99           49          $195.51
+5. Rice Pudding                   $4.99           12          $59.88 
+----------------------------------------------------------------------
+0. Total                                                      $779.01                         
+0. Merchandise Subtotal                                       $779.01                         
+0. Voucher Discount                                         - $233.703                        
+0. Total Payment                                              $545.307                        
+
+============================================ Mon Jan 30 17:09:28 2023
+[*] Name                          $ Price   Servings          Total
+1. Bacon Crackers                 $9.99            5          $49.95 
+2. Ice Cream Per Scoop            $3.99            1          $3.99  
+3. Chicken Tender                 $24.99           5          $124.95
+----------------------------------------------------------------------
+0. Total                                                      $178.89                         
+0. Merchandise Subtotal                                       $178.89                         
+0. Voucher Discount                                         - $53.667                         
+0. Total Payment                                              $125.223                        
+
+============================================ Wed Feb 01 09:40:27 2023
+[*] Name                          $ Price   Servings          Total
+1. Potato Skin Bites              $8.49            5          $42.45 
+2. Bacon Crackers                 $9.99            4          $39.96 
+3. Ham and Pickle Roll-Ups        $9               6          $54    
+4. Rose chicken Sandwich          $8.99           12          $107.88
+5. Rice Pudding                   $4.99            3          $14.97 
+----------------------------------------------------------------------
+0. Total                                                      $259.26                         
+0. Merchandise Subtotal                                       $259.26                         
+0. Voucher Discount                                         - $77.778                         
+0. Total Payment                                              $181.482                        
+
+============================================ Wed Feb 01 10:48:09 2023
+[*] Name                          $ Price   Servings          Total
+1. Potato Skin Bites              $8.49            2          $16.98 
+2. Potato Skin Bites              $8.49            3          $25.47 
+3. Sloppy Joe Dip                 $12              5          $60    
+----------------------------------------------------------------------
+0. Total                                                      $102.45                         
+0. Total                                                      $102.45                         
+
+============================================ Wed Feb 01 10:51:45 2023
+[*] Name                          $ Price   Servings          Total
+1. Bacon Crackers                 $9.99            5          $49.95 
+2. Ham and Pickle Roll-Ups        $9               4          $36    
+3. Rice Pudding                   $4.99            3          $14.97 
+4. House Made Baked Pie           $4.99           10          $49.9  
+5. Rice Pudding                   $4.99           10          $49.9  
+----------------------------------------------------------------------
+0. Total                                                      $200.72                         
+0. Merchandise Subtotal                                       $200.72                         
+0. Voucher Discount                                         - $60.216                         
+0. Total Payment                                              $140.504                        
+
+============================================ Wed Feb 01 13:56:16 2023
+[*] Name                          $ Price   Servings          Total
+----------------------------------------------------------------------
+0. Merchandise Subtotal                                       $0                              
+0. Voucher Discount                                         - $0                              
+0. Total Payment                                              $0                              
+
+============================================ Wed Feb 01 14:01:46 2023
+[*] Name                          $ Price   Servings          Total
+1. Bacon Crackers                 $9.99            5          $49.95 
+2. Ham and Pickle Roll-Ups        $9               4          $36    
+3. Potato Skin Bites              $8.49            2          $16.98 
+4. Beef Sausage                   $10.99           4          $43.96 
+5. Rose chicken Sandwich          $8.99           12          $107.88
+6. Beef Sausage                   $10.99          12          $131.88
+7. Rice Pudding                   $4.99           12          $59.88 
+8. Ice Cream Per Scoop            $3.99           34          $135.66
+----------------------------------------------------------------------
+0. Merchandise Subtotal                                       $582.19                         
+0. Voucher Discount                                         - $174.657                        
+0. Total Payment                                              $407.533                        
+
+============================================ Thu Feb 02 14:41:41 2023
+[*] Name                          $ Price   Servings          Total
+1. Potato Skin Bites              $8.49            5          $42.45 
+2. Bacon Crackers                 $9.99            3          $29.97 
+3. Beef Sausage                   $10.99           3          $32.97 
+4. Soda                           $3.99            1          $3.99  
+5. Soda                           $3.99           10          $39.9  
+----------------------------------------------------------------------
+0. Merchandise Subtotal                                       $149.28                         
+0. Voucher Discount                                         - $44.784                         
+0. Total Payment                                              $104.496                        
+
+============================================ Thu Feb 02 14:59:23 2023
+[*] Name                          $ Price   Servings          Total
+1. Potato Skin Bites              $8.49            4          $33.96 
+2. Beef Sausage                   $10.99           2          $21.98 
+3. Beef Sausage                   $10.99           4          $43.96 
+4. Rose chicken Sandwich          $8.99            5          $44.95 
+----------------------------------------------------------------------
+0. Total                                                      $144.85                         
+
+============================================ Fri Feb 03 09:37:19 2023
+[*] Name                          $ Price   Servings          Total
+1. Bacon Crackers                 $9.99            4          $39.96 
+2. Potato Skin Bites              $8.49            5          $42.45 
+3. Ham and Pickle Roll-Ups        $9               7          $63    
+4. Sloppy Joe Dip                 $12              1          $12    
+5. Strip Steak                    $12.99           6          $77.94 
+6. Beef Sausage                   $10.99           8          $87.92 
+7. Chicken Tender                 $24.99           9          $224.91
+8. Rose chicken Sandwich          $8.99           19          $170.81
+----------------------------------------------------------------------
+0. Merchandise Subtotal                                       $718.99                         
+0. Voucher Discount                                         - $215.697                        
+0. Total Payment                                              $503.293                        
+
+============================================ Fri Feb 03 10:32:50 2023
+[*] Name                          $ Price   Servings          Total
+1. Chicken Tender                 $24.99           2          $49.98 
+2. Beef Sausage                   $10.99           4          $43.96 
+3. Beef Sausage                   $10.99           4          $43.96 
+4. Chicken Tender                 $24.99           5          $124.95
+5. Soda                           $3.99           10          $39.9  
+6. Rice Pudding                   $4.99            5          $24.95 
+----------------------------------------------------------------------
+0. Merchandise Subtotal                                       $327.7                          
+0. Voucher Discount                                         - $98.31                          
+0. Total Payment                                              $229.39                         
+

@@ -1,0 +1,4 @@
+Chicken Tender:24.99:25
+Strip Steak:12.99:100
+Beef Sausage:10.99:100
+Rose chicken Sandwich:8.99:50
