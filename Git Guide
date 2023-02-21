@@ -1,0 +1,19 @@
+Git Token: 
+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
+
+…or create a new repository on the command line
+
+echo "# 123" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/VietLongg/123.git
+                      (123 is an example for the name of that repistory)
+git push -u origin master
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/VietLongg/123.git
+git branch -M main
+git push -u origin main
