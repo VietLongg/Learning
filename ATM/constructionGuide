@@ -1,0 +1,21 @@
+		
+		
+	            Some feature of ATM app:
+
+0.  Choose language
+1.  Register and login, check by mail and pass (need to be hidely typed).
+	Register: email + pass + bank account number (self user typed)
+	+ full name (sur name + first name)
+	Login: choose bank
+2. Forget password
+3.  Show the balance in the account
+4.  Withdrawn, print bill
+5.  Deposit
+	Deposit in the same banking branch, deposit in other banking branch
+6.  History
+7.  Transfer money to another account, check bank + account number
+8.  Bank savings (need virtual time to calculate users' interest)
+9.  Setting
+	Modify user information
+10.  History lookup (by date, by name of receiver or by bank account number
+11. Using OTP to sign in
